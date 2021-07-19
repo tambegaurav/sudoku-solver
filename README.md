@@ -1,4 +1,4 @@
-# Sudoku Solver [Live Demo](https://dumb-sudoku-solver.netlify.app/)
+# Sudoku Solver - [Live Demo](https://dumb-sudoku-solver.netlify.app/)
 
 
 ## Introduction
