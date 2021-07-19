@@ -1,4 +1,4 @@
-# Sudoku Solver [Website Link](https://dumb-sudoku-solver.netlify.app/)
+# Sudoku Solver [Live Demo](https://dumb-sudoku-solver.netlify.app/)
 
 
 ## Introduction
@@ -13,7 +13,7 @@ It not only solves the problem but visualizes how the algorithm works.
 
 In simple words, backtracking is a dumb way to solve sudoku where the computer tries out every possibility.
 
-And everytime it gets stuck on some try, it take a step back and try another number.
+And everytime it gets stuck on some try, it takes a step back and try another number.
 
 In techninal words, Backtracking can be defined as a general algorithmic technique that considers searching every possible combination in order to solve a computational problem. (Source - wiki)
 
