@@ -8,7 +8,11 @@ const Footer = styled.div`
   font-size: 20px;
   /* background-color: yellow; */
   width: 100%;
-  margin-top: 100px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  color: white;
+  text-align: center;
   & a {
     color: #fff;
     text-decoration: none;

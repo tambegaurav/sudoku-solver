@@ -28,7 +28,7 @@ const Row = ({ row }) => {
   return (
     <RowWrapper>
       {row.map((num, idx) => (
-        <p key={idx}>{num}</p>
+        <p key={idx}>{num !== 0 ? num : ""}</p>
       ))}
     </RowWrapper>
   );

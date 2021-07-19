@@ -19,10 +19,16 @@ const ButtonsLayout = styled.div`
   gap: 10px;
 
   & > button {
-    height: 30px;
     font-size: 20px;
     color: white;
-    background-color: #252525;
+    background-color: #464646;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+
+    :hover {
+      background-color: #333333;
+    }
   }
 `;
 
